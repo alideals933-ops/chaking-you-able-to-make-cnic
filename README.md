@@ -1,2 +1,6 @@
-# chaking-you-able-to-make-cnic
-In code you will you will enter our age and this program sad you are able to make  CNIC this program and and give you your correct information to make cnic or not please try this and and give comment
+print("Hello! please enter your age To find it you are able to make CNIC yes! or no!")
+x = int (input("entur age:"))
+if x > 18:
+    print("you are able to make CNIC")
+else:
+    print("you are not able to make CNIC")
